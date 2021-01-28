@@ -1,0 +1,1 @@
+{"0": "O", "1": "ponto_de_referencia", "2": "relacao_espacial"}
